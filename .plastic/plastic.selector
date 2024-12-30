@@ -1,0 +1,4 @@
+repository "Mooni_like@tj_nairref@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
